@@ -1,2 +1,2 @@
-# Java-Pterodactyl-Egg
+# Java Pterodactyl Egg
 Imagine paying $5
