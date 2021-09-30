@@ -1,2 +1,2 @@
-# Java Pterodactyl Egg
+# Java Pterodactyl Egg (OpenJDK)
 Imagine paying $5
